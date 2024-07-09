@@ -73,5 +73,3 @@ npm start</code></pre>
     </li>
 </ol>
 
-<h2>Contribuição</h2>
-<p>Sinta-se à vontade para contribuir com este projeto. Faça um fork do repositório, crie um branch para sua funcionalidade ou correção e envie um pull request. Toda contribuição é bem-vinda!</p>
