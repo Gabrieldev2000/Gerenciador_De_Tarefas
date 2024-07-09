@@ -48,7 +48,7 @@
 <h2>Como Executar o Projeto</h2>
 <h3>Pré-requisitos</h3>
 <ul>
-    <li><strong>.NET 6.0 SDK:</strong> Para o backend.</li>
+    <li><strong>.NET 8.0 SDK:</strong> Para o backend.</li>
     <li><strong>Node.js e npm:</strong> Para o frontend.</li>
 </ul>
 
